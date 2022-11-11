@@ -1,0 +1,27 @@
+D:\C# II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\bin\Debug\netcoreapp3.1\ConsoleAppCoreDemo.exe
+D:\C# II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\bin\Debug\netcoreapp3.1\ConsoleAppCoreDemo.deps.json
+D:\C# II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\bin\Debug\netcoreapp3.1\ConsoleAppCoreDemo.runtimeconfig.json
+D:\C# II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\bin\Debug\netcoreapp3.1\ConsoleAppCoreDemo.runtimeconfig.dev.json
+D:\C# II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\bin\Debug\netcoreapp3.1\ConsoleAppCoreDemo.dll
+D:\C# II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\bin\Debug\netcoreapp3.1\ConsoleAppCoreDemo.pdb
+D:\C# II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\obj\Debug\netcoreapp3.1\ConsoleAppCoreDemo.csprojAssemblyReference.cache
+D:\C# II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\obj\Debug\netcoreapp3.1\ConsoleAppCoreDemo.AssemblyInfoInputs.cache
+D:\C# II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\obj\Debug\netcoreapp3.1\ConsoleAppCoreDemo.AssemblyInfo.cs
+D:\C# II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\obj\Debug\netcoreapp3.1\ConsoleAppCoreDemo.csproj.CoreCompileInputs.cache
+D:\C# II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\obj\Debug\netcoreapp3.1\ConsoleAppCoreDemo.dll
+D:\C# II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\obj\Debug\netcoreapp3.1\ConsoleAppCoreDemo.pdb
+D:\C# II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\obj\Debug\netcoreapp3.1\ConsoleAppCoreDemo.genruntimeconfig.cache
+D:\C#II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\bin\Debug\netcoreapp3.1\ConsoleAppCoreDemo.exe
+D:\C#II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\bin\Debug\netcoreapp3.1\ConsoleAppCoreDemo.deps.json
+D:\C#II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\bin\Debug\netcoreapp3.1\ConsoleAppCoreDemo.runtimeconfig.json
+D:\C#II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\bin\Debug\netcoreapp3.1\ConsoleAppCoreDemo.runtimeconfig.dev.json
+D:\C#II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\bin\Debug\netcoreapp3.1\ConsoleAppCoreDemo.dll
+D:\C#II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\bin\Debug\netcoreapp3.1\ConsoleAppCoreDemo.pdb
+D:\C#II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\obj\Debug\netcoreapp3.1\ConsoleAppCoreDemo.csproj.AssemblyReference.cache
+D:\C#II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\obj\Debug\netcoreapp3.1\ConsoleAppCoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\obj\Debug\netcoreapp3.1\ConsoleAppCoreDemo.AssemblyInfoInputs.cache
+D:\C#II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\obj\Debug\netcoreapp3.1\ConsoleAppCoreDemo.AssemblyInfo.cs
+D:\C#II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\obj\Debug\netcoreapp3.1\ConsoleAppCoreDemo.csproj.CoreCompileInputs.cache
+D:\C#II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\obj\Debug\netcoreapp3.1\ConsoleAppCoreDemo.dll
+D:\C#II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\obj\Debug\netcoreapp3.1\ConsoleAppCoreDemo.pdb
+D:\C#II\ConsoleAppCoreDemo\ConsoleAppCoreDemo\obj\Debug\netcoreapp3.1\ConsoleAppCoreDemo.genruntimeconfig.cache

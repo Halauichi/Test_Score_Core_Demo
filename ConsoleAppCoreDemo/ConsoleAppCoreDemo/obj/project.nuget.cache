@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5JXv6kIDcWBoMr9VzZJwGHGLddc3MxUe1RQqYM6bfzN6RVBLtcwuVAQpobjLNR0KZrE3KXOPPVbnHM8bc3q4lw==",
+  "success": true,
+  "projectFilePath": "D:\\C#II\\ConsoleAppCoreDemo\\ConsoleAppCoreDemo\\ConsoleAppCoreDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\husam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
